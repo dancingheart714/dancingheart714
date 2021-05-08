@@ -17,7 +17,7 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
  Python
  
  ## GitHub Stats
-![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=dancingheart714&hide=stars&show_icons=true&hide_border=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmarie1976&hide=smalltalk&theme=midnight-purple&layout=compact&hide_border=true)
+![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=dancingheart714&hide=stars&show_icons=true&hide_border=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancingheart714&hide=smalltalk&theme=omni&layout=compact&hide_border=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
