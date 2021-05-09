@@ -6,6 +6,8 @@
 --> I am very creative soul who finally found my way to becoming a Full Stack Web Developer!<br>
 --> I always thought of programming as a mathematical "brainy" activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created.<br>
 -->  I'm coming in to the final months of my work at Lambda School where I'll be spending my time with the backend.
+-->  I own an Etsy shop that specializes in Kawaii stationary, washi tape and planner supplies.
+-->  A few of my favorite things are: 🐱Cats, 📚Reading, ☕Coffee!, ❤️Sanrio Characters, 🎀the color Pink!
 
 🖥️Languages & Tech I Know    
 <br>
@@ -53,19 +55,13 @@
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 </tr>
-
-<td align="center" width="20%">
-<span><b><center>Bootstrap</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/bootstrap.png"> 
-</td>
-</tr>
 </tbody>
 </table>
 
 
 
 - 🌱 I’m currently learning ...
- Node.js
+ Node.js<br>
  Python
 
 
