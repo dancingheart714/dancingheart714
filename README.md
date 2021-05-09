@@ -9,6 +9,23 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 <br>
 <table>
 <tbody>
+ 
+ <td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+</tr>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/css.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
  <tr>
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
@@ -22,26 +39,27 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 </tr>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
-
-<td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
 </tr>
 
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+<span><b><center>Github</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+<span><b><center>Bootstrap</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/bootstrap-2.png"> 
 </td>
-</tr>
+
+
+
+
+
+
+
 
 
 <td align="center" width="20%">
