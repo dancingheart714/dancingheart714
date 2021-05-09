@@ -59,15 +59,15 @@
 </tr>
 </tbody>
 </table>
+<br>
 
 
+<h4>🌱 I’m currently learning ...</h4><br>
+ ---> Node.js<br>
+ ---> Python
+<br>
 
-🌱 I’m currently learning ...<br>
- Node.js<br>
- Python
-
-
-🐹 Connect with me: <br>
+<h4>🐹 Connect with me:</h4><br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4F44D6)](https://www.linkedin.com/in/leah-king-8323a0201/)
 [![Email Badge](https://img.shields.io/badge/Gmail-Email-informational?style=flat&logo=email&logoColor=white&color=4F44D6)](mailto:dancingheart714@gmail.com)
 [![Github](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=4F44D6)](https://github.com/dancingheart714)
