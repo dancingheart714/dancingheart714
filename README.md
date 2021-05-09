@@ -16,7 +16,7 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 </td>
 
 <td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
+<span><b><center>CSS</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/css.png"> 
 </td>
 
@@ -29,6 +29,7 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 <span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
+</tr>
  
  <td align="center" width="20%">
 <span><b><center>Redux</center></b></span> 
@@ -49,6 +50,7 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 <span><b><center>Github</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
+</tr>
 
 <td align="center" width="20%">
 <span><b><center>Bootstrap</center></b></span> 
