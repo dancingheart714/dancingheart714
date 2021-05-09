@@ -1,8 +1,8 @@
-<p align="center"><img src=""/></p>
+<p align="center"><img src="https://media.giphy.com/media/VwmUKv6Mh91de/giphy.gif"/></p>
 
 
 
-👋,<h1>My Name is Leah King</h1>
+<h1>👋,My Name is Leah King</h1>
 --> I am very creative soul who finally found my way to becoming a Full Stack Web Developer!<br>
 --> I always thought of programming as a mathematical "brainy" activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created.<br>
 -->  I'm coming in to the final months of my work at Lambda School where I'll be spending my time with the backend.
