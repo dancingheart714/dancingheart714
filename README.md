@@ -6,9 +6,9 @@
 <br>
 --> I am very creative soul who finally found my way to becoming a Full Stack Web Developer!<br>
 --> I always thought of programming as a mathematical "brainy" activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created.<br>
--->  I'm coming in to the final months of my work at Lambda School where I'll be spending my time with the backend.
--->  I own an Etsy shop that specializes in Kawaii stationary, washi tape and planner supplies.
--->  A few of my favorite things are: 🐱Cats, 📚Reading, ☕Coffee!, ❤️Sanrio Characters, 🎀the color Pink!
+-->  I'm coming in to the final months of my work at Lambda School where I'll be spending my time with the backend.<br>
+-->  I own an Etsy shop that specializes in Kawaii stationary, washi tape and planner supplies.<br>
+-->  A few of my favorite things are: 🐱Cats, 📚Reading, ☕Coffee!, ❤️Sanrio Characters, 🎀the color Pink!<br>
 </br>
 <br>
 🖥️Languages & Tech I Know    
