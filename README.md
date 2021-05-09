@@ -14,19 +14,16 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 <span><b><center>HTML</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
-</tr>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/css.png"> 
 </td>
-</tr>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
-</tr>
 
  <tr>
 <td align="center" width="20%">
@@ -39,13 +36,11 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 <span><b><center>Redux</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/redux.png"> 
 </td>
-</tr>
 
 <td align="center" width="20%">
 <span><b><center>NodeJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
-</tr>
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
@@ -57,7 +52,6 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 <span><b><center>Github</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
-</tr>
 
 <td align="center" width="20%">
 <span><b><center>Bootstrap</center></b></span> 
