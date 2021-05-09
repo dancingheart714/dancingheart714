@@ -73,8 +73,8 @@
     <img src="https://img.shields.io/badge/linkedin-leah--king--8323a0201/-blue">
   </a>
   
-  <a href="https://www.instagram.com/erika.cafezin/">
-    <img src="https://img.shields.io/badge/instagram-erika.cafezin-red">
+  <a href="https://www.instagram.com/dancingheart714/">
+    <img src="https://img.shields.io/badge/instagram-dancingheart714-red">
   </a>
 </p>
 
