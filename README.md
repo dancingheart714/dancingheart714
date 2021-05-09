@@ -25,7 +25,6 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
 
- <tr>
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
@@ -45,7 +44,6 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 <span><b><center>Python</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
-</tr>
 
 <td align="center" width="20%">
 <span><b><center>Github</center></b></span> 
