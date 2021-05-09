@@ -5,7 +5,7 @@
 # Hi 👋, My Name is Leah King
 I am very creative soul who finally found my way to becoming a Full Stack Web Developer! I always thought of programming as a mathematical "brainy" activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created. I'm coming in to the final months of my work at Lambda School where I'll be spending my time with the backend.
 
-## 🖥️Tech and Tools    
+## 🖥️Languages & Tech I Know    
 <br>
 <table>
 <tbody>
@@ -20,17 +20,26 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/css.png"> 
 </td>
+</tr>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
+</tr>
 
  <tr>
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
+ </tr>
+ 
+ <td align="center" width="20%">
+<span><b><center>Redux</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/redux.png"> 
+</td>
+</tr>
 
 <td align="center" width="20%">
 <span><b><center>NodeJS</center></b></span> 
@@ -48,27 +57,19 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 <span><b><center>Github</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
+</tr>
 
 <td align="center" width="20%">
 <span><b><center>Bootstrap</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/bootstrap-2.png"> 
 </td>
-
-
-
-
-
-
-
-
-
-<td align="center" width="20%">
-<span><b><center>Redux</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/redux.png"> 
-</td>
-
+</tr>
 </tbody>
 </table>
+
+- 🌱 I’m currently learning ...
+ Node.js
+ Python
 
 
 ## 🤝 Connect with me: 
@@ -76,9 +77,7 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 [![Email Badge](https://img.shields.io/badge/Gmail-Email-informational?style=flat&logo=email&logoColor=white&color=4F44D6)](mailto:dancingheart714@gmail.com)
 [![Github](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=4F44D6)](https://github.com/dancingheart714)
  
-## 📚 Things that I am learning: 
- Node.js
- Python
+
  
  ## GitHub Stats
 ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=dancingheart714&hide=stars&show_icons=true&hide_border=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancingheart714&hide=smalltalk&theme=omni&layout=compact&hide_border=true)
