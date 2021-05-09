@@ -9,6 +9,7 @@
 -->  I own an Etsy shop that specializes in Kawaii stationary, washi tape and planner supplies.
 -->  A few of my favorite things are: 🐱Cats, 📚Reading, ☕Coffee!, ❤️Sanrio Characters, 🎀the color Pink!
 
+<br>
 🖥️Languages & Tech I Know    
 <br>
 <table>
