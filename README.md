@@ -67,12 +67,20 @@
  ---> Python
 <br>
 
-<h4>🐹 Connect with me:</h4>
-<a href="https://www.instagram.com/dancingheart714/" target="_blank"><img src="https://raw.githubusercontent.com/dancingheart714/dancingheart714/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/leah-king-8323a0201/" target="_blank"><img src="https://raw.githubusercontent.com/dancingheart714/dancingheart714/master/in.png" alt="LinkedIn" width="30"></a>
+<h4>🐹 Connect With Me!
+  <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/leah-king-8323a0201//">
+    <img src="https://img.shields.io/badge/linkedin-leah-king-8323a0201/-blue">
+  </a>
+  
+  <a href="https://www.instagram.com/erika.cafezin/">
+    <img src="https://img.shields.io/badge/instagram-erika.cafezin-red">
+  </a>
+</p>
 
 
 
+<br>
 ![](https://img.shields.io/github/followers/dancingheart714?style=social) 
  
  ## GitHub Stats
