@@ -76,6 +76,10 @@
   <a href="https://www.instagram.com/dancingheart714/">
     <img src="https://img.shields.io/badge/instagram-dancingheart714-red">
   </a>
+  
+  <a href="https://www.github.com/dancingheart714/">
+    <img src="https://img.shields.io/badge/github-dancingheart714-violet">
+  </a>
 </p>
 
 
