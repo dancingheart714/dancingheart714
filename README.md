@@ -62,7 +62,7 @@
 
 
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...<br>
  Node.js<br>
  Python
 
