@@ -2,7 +2,7 @@
 
 
 
-<h1>👋,My Name is Leah King</h1>
+<h1>👋 My Name is Leah King</h1>
 <br>
 --> I am very creative soul who finally found my way to becoming a Full Stack Web Developer!<br>
 --> I always thought of programming as a mathematical "brainy" activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created.<br>
@@ -62,12 +62,12 @@
 
 
 
-## 🌱 I’m currently learning ...<br>
+🌱 I’m currently learning ...<br>
  Node.js<br>
  Python
 
 
-##🐹 Connect with me: 
+🐹 Connect with me: <br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4F44D6)](https://www.linkedin.com/in/leah-king-8323a0201/)
 [![Email Badge](https://img.shields.io/badge/Gmail-Email-informational?style=flat&logo=email&logoColor=white&color=4F44D6)](mailto:dancingheart714@gmail.com)
 [![Github](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=4F44D6)](https://github.com/dancingheart714)
