@@ -2,10 +2,12 @@
 
 ![](https://img.shields.io/github/followers/dancingheart714?style=social) 
 
-# Hi 👋, My Name is Leah King
-I am very creative soul who finally found my way to becoming a Full Stack Web Developer! I always thought of programming as a mathematical "brainy" activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created. I'm coming in to the final months of my work at Lambda School where I'll be spending my time with the backend.
+👋, My Name is Leah King
+--> I am very creative soul who finally found my way to becoming a Full Stack Web Developer!
+--> I always thought of programming as a mathematical "brainy" activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created. 
+-->  I'm coming in to the final months of my work at Lambda School where I'll be spending my time with the backend.
 
-## 🖥️Languages & Tech I Know    
+🖥️Languages & Tech I Know    
 <br>
 <table>
 <tbody>
@@ -76,13 +78,3 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
  
  ## GitHub Stats
 ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=dancingheart714&hide=stars&show_icons=true&hide_border=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancingheart714&hide=smalltalk&theme=omni&layout=compact&hide_border=true)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
