@@ -70,7 +70,7 @@
 <h4>🐹 Connect With Me!
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/leah-king-8323a0201//">
-    <img src="https://img.shields.io/badge/linkedin-leah-king-8323a0201/-blue">
+    <img src="https://img.shields.io/badge/linkedin-leah--king--8323a0201/-blue">
   </a>
   
   <a href="https://www.instagram.com/erika.cafezin/">
