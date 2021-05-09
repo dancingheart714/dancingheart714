@@ -11,7 +11,7 @@
 -->  A few of my favorite things are: 🐱Cats, 📚Reading, ☕Coffee!, ❤️Sanrio Characters, 🎀the color Pink!<br>
 </br>
 <br>
-🖥️Languages & Tech I Know    
+<h4>🖥️Languages & Tech I Know</h4>    
 <br>
 <table>
 <tbody>
