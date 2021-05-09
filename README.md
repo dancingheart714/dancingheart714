@@ -82,10 +82,6 @@
   </a>
 </p>
 
-
-
-<br>
-![](https://img.shields.io/github/followers/dancingheart714?style=social) 
  
  ## GitHub Stats
 ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=dancingheart714&hide=stars&show_icons=true&hide_border=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancingheart714&hide=smalltalk&theme=omni&layout=compact&hide_border=true)
