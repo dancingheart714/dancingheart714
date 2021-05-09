@@ -54,11 +54,13 @@ I am very creative soul who finally found my way to becoming a Full Stack Web De
 
 <td align="center" width="20%">
 <span><b><center>Bootstrap</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/bootstrap-2.png"> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/bootstrap.png"> 
 </td>
 </tr>
 </tbody>
 </table>
+
+
 
 - 🌱 I’m currently learning ...
  Node.js
