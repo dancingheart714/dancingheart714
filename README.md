@@ -8,7 +8,7 @@
 --> I always thought of programming as a mathematical "brainy" activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created.<br>
 -->  I'm coming in to the final months of my work at Lambda School where I'll be spending my time with the backend.<br>
 -->  I own an Etsy shop that specializes in Kawaii stationary, washi tape and planner supplies.<br>
--->  A few of my favorite things are: 🐱Cats 📚Reading ☕Coffee ❤️Sanrio Characters 🎀Pink 👩‍💻 Coding, of course!<br>
+-->  A few of my favorite things are: 🐱Cats 📚Reading ☕Coffee ❤️Sanrio Characters 👩‍💻 Coding, of course!<br>
 </br>
 <br>
 <h4>🖥️Languages & Tech I Know</h4>    
@@ -87,4 +87,4 @@
 ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=dancingheart714&hide=stars&show_icons=true&hide_border=true&theme=omni) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dancingheart714&hide=smalltalk&theme=omni&layout=compact&hide_border=true)
 
 
-![image](https://user-images.githubusercontent.com/74308960/117588136-86ca2880-b0ef-11eb-8a93-904248f7f087.png)
+
