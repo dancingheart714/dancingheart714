@@ -1,4 +1,4 @@
-<p align="center"><img height=200px width=400px src="https://i.pinimg.com/originals/6b/07/61/6b0761785619f5d03bafcffc9be0400b.gif"/></p>
+<p align="center"><img height=200px width=400px src="https://thumbs.gfycat.com/HorribleFrenchChimneyswift-max-1mb.gif"/></p>
 
 
 
@@ -6,7 +6,7 @@
 <br>
 --> I am very creative soul who finally found my way to becoming a Full Stack Web Developer!<br>
 --> I always thought of programming as an activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created.<br>
--->  My background has provided me with lots of experience managing people and teams and I hope to incorporate this into my programming career.<br>
+-->  My background has provided me with lots of experience managing people and teams and I hope to incorporate this into my programming career. I am also fascinated with cyber security and think it would be very interesting to delve into that!<br>
 -->  I own an Etsy shop that specializes in Kawaii stationary, washi tape and planner supplies.<br>
 -->  A few of my favorite things are: 🐱Cats 📚Reading ☕Coffee ❤️Sanrio Characters 👩‍💻 Coding, of course!<br>
 </br>
@@ -62,9 +62,10 @@
 <br>
 
 
-<h4>🌱 I’m currently learning ...</h4>
- ---> Node.js<br>
- ---> Python
+<h4>🌱 I Want To Learn ...</h4>
+ ---> Java<br>
+ ---> C++<br>
+ ---> Rust
 <br>
 
 <h4>🐹 Connect With Me!
