@@ -1,12 +1,12 @@
-<p align="center"><img height=200px width=400px src="https://media.giphy.com/media/VwmUKv6Mh91de/giphy.gif"/></p>
+<p align="center"><img height=200px width=400px src="https://i.pinimg.com/originals/35/d8/d8/35d8d86a396eb11685608aa55d6b178b.gif"/></p>
 
 
 
 <h1>👋 My Name is Leah King</h1>
 <br>
 --> I am very creative soul who finally found my way to becoming a Full Stack Web Developer!<br>
---> I always thought of programming as a mathematical "brainy" activity that was way beyond my reach, and while it certainly is brainy, I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created.<br>
--->  I'm coming in to the final months of my work at Lambda School where I'll be spending my time with the backend.<br>
+--> I always thought of programming as an activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created.<br>
+-->  My background has provided me with lots of experience managing people and teams and I hope to incorporate this into my programming career.<br>
 -->  I own an Etsy shop that specializes in Kawaii stationary, washi tape and planner supplies.<br>
 -->  A few of my favorite things are: 🐱Cats 📚Reading ☕Coffee ❤️Sanrio Characters 👩‍💻 Coding, of course!<br>
 </br>
