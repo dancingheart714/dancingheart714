@@ -2,7 +2,7 @@
 
 
 
-<h1>👋 My Name is Leah King</h1>
+<h2>👋 Hi! My Name is Leah King</h2> 
 <br>
 --> I am very creative soul who finally found my way to becoming a Full Stack Web Developer!<br>
 --> I always thought of programming as an activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created.<br>
