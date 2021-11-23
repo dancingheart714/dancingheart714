@@ -86,7 +86,7 @@
 <h4>🐹 Connect With Me!
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/leah-king-dev//">
-    <img src="https://img.shields.io/badge/linkedin-leah--king--8323a0201/-blue">
+    <img src="https://img.shields.io/badge/linkedin-leah--king--dev/-blue">
   </a>
   
   <a href="https://www.instagram.com/dancingheart714/">
