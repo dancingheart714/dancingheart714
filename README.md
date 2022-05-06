@@ -5,11 +5,10 @@
 
 <h2>👋 Hi! My Name is Leah King</h2> 
 <br>
---> My path to becoming a full stack web developer has been an interesting one!  My original career direction was law or social work but through a series of interesting turns I ended up with an MBA and being a minister - go figure that one!  After 14 years of ministerial work, I've made another interesting turn in my career journey by becoming a Full Stack Web Developer.  I always thought of programming as an activity that was way beyond my reach, but I have found programming to be one of the most creative outlets imaginable!  I get really excited when the work of putting together HTML, CSS, React, and more renders a product to the screen that I created.<br>
 <br>
--->  My background has provided me with lots of experience managing people and teams and I hope to incorporate this into my programming career. I am also fascinated with cyber security and think it would be very interesting to delve into that!<br>
+-->  My background has provided me with lots of experience managing people and teams and I recently became a Certified Scrum Master so I hope to incorporate this into my programming career.<br>
 <br>
--->  I own an Etsy shop that specializes in Kawaii stationary, washi tape and planner supplies.<br>
+-->  I own an online shop that specializes in Kawaii stationary, washi tape and planner supplies.<br>
 <br>
 -->  A few of my favorite things are: 🐱Cats 📚Reading ☕Coffee ❤️Sanrio Characters 👩‍💻 Coding, of course!<br>
 </br>
